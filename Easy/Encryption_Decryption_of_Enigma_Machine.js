@@ -76,16 +76,3 @@ if(operation == "ENCODE") {
     p(msgAfterCesar)
 
 }
-
-
-
-
-
-// biblioFR_leToNb = {}
-// biblioFR_nbToLe = {}
-// for(let i = 0; i<alp.length; i++){
-//     biblioFR_leToNb[firstRotor[i]] = i
-//     biblioFR_nbToLe[i] = firstRotor[i]
-// }
-// p(biblioFR_leToNb)
-// p(biblioFR_nbToLe)
